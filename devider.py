@@ -1,2 +1,2 @@
-def divide1(a,b):
+def devide1(a,b):
     return a/b
